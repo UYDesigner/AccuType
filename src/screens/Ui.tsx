@@ -229,7 +229,7 @@ export const Ui = () => {
               </div>
 
               {/* ====== Typing Area ====== */}
-              <div className="relative w-full sm:h-[180px] font-mono leading-relaxed h-[300px] border rounded-md border-gray-300 dark:border-gray-700">
+              <div className="relative w-full sm:h-[180px] font-mono leading-relaxed h-[380px] border rounded-md border-gray-300 dark:border-gray-700">
 
                 {/* Display Text */}
                 <div className="absolute inset-0 whitespace-pre-wrap break-words pointer-events-none p-4 text-base">
